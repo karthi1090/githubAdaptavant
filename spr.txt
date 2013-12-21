@@ -30,3 +30,4 @@ src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCX8hG2lub7cD3H313bKIfonu1
         infowindow.open(map, marker);
     }
 </script>
+<karthik></karthik>
